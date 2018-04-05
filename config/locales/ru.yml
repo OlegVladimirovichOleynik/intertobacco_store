@@ -1,0 +1,11 @@
+ru:
+  spree:
+    vinsol_spree_themes: "Конструктор тем"
+    adjustment_labels:
+      tax_rates:
+        including_tax: "В том числе налог"
+    flash:
+      admin:
+        themes:
+          destroy:
+            success: "Тема успешно удалена"
